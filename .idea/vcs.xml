@@ -2,9 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/deneme" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/day01variables" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/day10forloopwhileloop" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/day10forloopwhileloop/Java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deneme" vcs="" />
+    <mapping directory="$PROJECT_DIR$/src/day01variables" vcs="" />
+    <mapping directory="$PROJECT_DIR$/src/day10forloopwhileloop" vcs="" />
+    <mapping directory="$PROJECT_DIR$/src/day10forloopwhileloop/Java" vcs="" />
   </component>
 </project>
