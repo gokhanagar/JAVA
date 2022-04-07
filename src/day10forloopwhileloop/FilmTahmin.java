@@ -11,7 +11,6 @@ public class FilmTahmin {
   filmin index nosuna göre sectiriniz
   seçilen filmin  ismini filmin harf saysının 2 katı kadar hak tanıyarak tahmin etmesini
   sağlayan method create ediniz...
-  Ahanda TRICK...
   kullanıcının sectiği filmin harf sayısını  console yazdırınız.
   kullanıcının sectiği film için tahmin hakkını  console yazdırınız.
   kullanıcının her tahmininde kalan hak sayısını console yazdırınız.
