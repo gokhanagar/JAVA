@@ -7,7 +7,7 @@ import static objectmanipulations.Person.getEmail;
 public class MainRunner {
 
     /*
-    Type a program that aska user their name and lastname, then create an email for the user
+    Type a program that ask user their name and lastname, then create an email for the user
     concatenate the name and lastname then add @gmail.com
      */
     public static void main(String[] args) {

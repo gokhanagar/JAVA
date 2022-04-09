@@ -38,8 +38,8 @@ public class MainRunner4 {
 
         List<String> emails = generateEmails(people);
         System.out.println("First email :" + emails.get(0));
-        System.out.println("First email :" + emails.get(1));
-        System.out.println("First email :" + emails.get(2));
+        System.out.println("Second email :" + emails.get(1));
+        System.out.println("Third email :" + emails.get(2));
 
 
     }//main method
