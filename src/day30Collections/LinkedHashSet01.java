@@ -30,7 +30,7 @@ public class LinkedHashSet01 {
         //Interview: display all arrayList elements at once on the console
         LinkedHashSet<Integer> lhs2 = new LinkedHashSet<>();
         lhs2.addAll(list);
-
+        System.out.println(lhs2);
 
     }
 }
