@@ -81,7 +81,7 @@ public class HashMap01 {
 
         for (Map.Entry<Integer, String> each : setForm) {
 
-            System.out.println(each);
+            //System.out.println(each);
             System.out.println("Key : " + each.getKey());
             System.out.println("Value: " + each.getValue());
         }
