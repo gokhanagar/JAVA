@@ -27,6 +27,7 @@ public class HashSet01 {
         hs2.add("K");
         hs2.add(null);
 
+
         System.out.println(hs1.equals(hs2)); // [null, K] //[null, K] => true
 
         // Interview questions : type a code to display arrayList elements only once

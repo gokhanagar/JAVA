@@ -98,7 +98,7 @@ public class Fp04 {
         System.out.println(list);
     }
     */
-    //8)Remove the elements if the length is beween 8 and 10 or ending with 'o';
+    //8)Remove the elements if the length is between 8 and 10 or ending with 'o';
     /*
     public static void RemoveTheElementsLengthsInBetween8And10OrEndsWithO(List<String> list){
 

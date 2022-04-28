@@ -56,10 +56,10 @@ public class HashMap01 {
         String value2 = hm1.get(463);// if the key does not exist, then it will give null the value
 
         System.out.println(value);
-        System.out.println(value2);//thi is null
+        System.out.println(value2);//this is null
 
         String value3 = hm1.getOrDefault(999, "There is no key like that..");
-        // If you use getOrDEfault and you have a valid key, it will return  value for the key
+        // If you use getOrDefault and you have a valid key, it will return  value for the key
         System.out.println(value3);
 
         String value4 = hm1.getOrDefault(1000, "There is no key like that..");
