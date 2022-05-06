@@ -22,7 +22,7 @@ public class TryCatch {
 
         public static String stringGirisi() {
             try {
-                kelime = scanner.nextLine();
+                kelime = scanner.nextLine().toLowerCase();
                 String kontrol = kelime.replaceAll("\\D", "");
                 String kontrol2 = kelime.replaceAll("\\w", "");
                 if (kontrol.length() != 0 || kontrol2.length() != 0) {
