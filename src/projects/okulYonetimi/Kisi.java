@@ -2,15 +2,15 @@ package projects.okulYonetimi;
 
 public class Kisi {
 
-    private String adSoyad;
-    private String yas;
+    private String adSoyad ="";
+    private String yas ="";
+
+    public Kisi() {
+    }
 
     public Kisi(String adSoyad, String yas) {
         this.adSoyad = adSoyad;
         this.yas = yas;
-    }
-    public Kisi(){
-
     }
 
     public String getAdSoyad() {

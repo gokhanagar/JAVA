@@ -17,7 +17,7 @@ public class Q06 {
         str = str.replace(" ", "");
 
         isPalindrome(str);
-
+        palindromeCheck();
 
     }
 
@@ -38,5 +38,13 @@ public class Q06 {
         }
 
 
+    }
+
+    public static void palindromeCheck() {
+        System.out.println("please enter a word or phrase");
+        String entry = scan.nextLine().replaceAll(" ", "");
+        StringBuilder sb = new StringBuilder(entry);
+        sb.reverse();
+        System.out.println(entry.contentEquals(sb) ? "this entry is palindrome" : "this entry is not palindrome");
     }
 }

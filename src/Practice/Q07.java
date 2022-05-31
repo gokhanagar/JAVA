@@ -14,9 +14,7 @@ public class Q07 {/*
         System.out.println("Enter a number if it is armstrong number or not");
         String strNum = scanner.next();
 
-
         sumOfCubes(strNum);
-
 
     }
 

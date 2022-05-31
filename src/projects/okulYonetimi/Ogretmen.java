@@ -5,20 +5,16 @@ import java.util.Map;
 
 public class Ogretmen extends Kisi{
 
-    static Map<String,Ogretmen> ogretmenMapListesi = new HashMap<>();
-    private String bolum;
-    private String sicil;
+    static Map<String,Ogretmen> ogretmenListesiMap = new HashMap<>();
 
-    public Ogretmen(){
+    private String bolum ="";
+    private String sicil ="";
 
+    public Ogretmen() {
     }
+
     public Ogretmen(String adSoyad, String yas, String bolum, String sicil) {
         super(adSoyad, yas);
-        this.bolum = bolum;
-        this.sicil = sicil;
-    }
-
-    public Ogretmen(String bolum, String sicil) {
         this.bolum = bolum;
         this.sicil = sicil;
     }
@@ -44,6 +40,6 @@ public class Ogretmen extends Kisi{
         return "Ogretmen{" +
                 "bolum='" + bolum + '\'' +
                 ", sicil='" + sicil + '\'' +
-                '}';
+                "} " + super.toString();
     }
 }

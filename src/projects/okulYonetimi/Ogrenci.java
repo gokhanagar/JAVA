@@ -3,32 +3,19 @@ package projects.okulYonetimi;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Ogrenci extends Kisi {
+public class Ogrenci extends Kisi{
 
-    static Map<String, Ogrenci> ogrenciListesiMap = new HashMap<>();
-    private String sinif;
-    private String numara;
+    static Map<String,Ogrenci> ogrenciListesiMap = new HashMap<>();
 
-    public Ogrenci(String adSoyad, String yas, String sinif, String numara) {
+    private String numara ="";
+    private String sinif ="";
+
+    public Ogrenci() {
+    }
+
+    public Ogrenci(String adSoyad, String yas, String numara, String sinif) {
         super(adSoyad, yas);
-        this.sinif = sinif;
         this.numara = numara;
-    }
-
-    public Ogrenci(String sinif, String numara) {
-        this.sinif = sinif;
-        this.numara = numara;
-    }
-
-    public Ogrenci(){
-
-    }
-
-    public String getSinif() {
-        return sinif;
-    }
-
-    public void setSinif(String sinif) {
         this.sinif = sinif;
     }
 
@@ -40,11 +27,19 @@ public class Ogrenci extends Kisi {
         this.numara = numara;
     }
 
+    public String getSinif() {
+        return sinif;
+    }
+
+    public void setSinif(String sinif) {
+        this.sinif = sinif;
+    }
+
     @Override
     public String toString() {
         return "Ogrenci{" +
-                "sinif='" + sinif + '\'' +
-                ", numara='" + numara + '\'' +
-                '}';
+                "numara='" + numara + '\'' +
+                ", sinif='" + sinif + '\'' +
+                "} " + super.toString();
     }
 }

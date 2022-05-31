@@ -41,6 +41,32 @@ public class Q10 {
         }
         System.out.println(numOfWords);
 
+        //3.Way
+        String str1 = "Ali came to school, and Ayse came to school.";
+        str1 = str1.replaceAll("\\p{P}", "");
+        String[] arr = str1.split(" ");
+        Arrays.sort(arr);
+        System.out.println(Arrays.toString(arr));
+        int count = 0;
+        for (int i = 0; i < arr.length; i++) {
+            count = 1;
+            for (int j = i + 1; j < arr.length; j++) {
+                if (arr[i].equals(arr[j])) {
+                    count++;
+
+                    if (j == arr.length - 1) {
+                        i = j;
+                    }
+
+                } else {
+                    i = j - 1;
+                    break;
+                }
+            }
+            System.out.println(arr[i] + " = " + count);
+
+        }
+
 
     }
 
