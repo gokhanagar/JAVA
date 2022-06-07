@@ -75,6 +75,20 @@ public class Q20 {
             System.out.print(" *");
         }
 
+        //4.way
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }//main
 }
