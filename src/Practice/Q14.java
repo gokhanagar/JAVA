@@ -21,6 +21,7 @@ public class Q14 {
         List<Integer> list2 = new ArrayList<>();
 
         int count = 0;
+
         while (list.size() > 0) {
             int sum = 0;
             for (int j = 0; j < count + 1; j++) {

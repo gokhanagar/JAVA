@@ -1,0 +1,204 @@
+[33mcommit 5daff02c796ac34a5bb0ed6c951b7d7e350ce6e2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mJava/master[m[33m)[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Tue Jun 7 08:29:36 2022 +0300
+
+    07-06-2022
+
+[33mcommit 587427ce2e6c06b127b62b18b7e853942ed8c6c1[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Mon Jun 6 07:59:54 2022 +0300
+
+    06-06-2022
+
+[33mcommit 4e4007b608a98f8859a2a9f36c90fc65bc76f7c4[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Thu Jun 2 06:58:17 2022 +0300
+
+    02-06-2022
+
+[33mcommit d70fd80c1ea006647f3b9d6944aef79cded9702d[m
+Merge: da1a94e 6ec5d66
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Tue May 31 07:31:31 2022 +0300
+
+    V7
+
+[33mcommit da1a94e0bc0ae9ae1989523a9bd4a547b82593cd[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Tue May 31 07:18:42 2022 +0300
+
+    2022-05-31
+
+[33mcommit 6ec5d66d9e2e32e2e6349991827d8dd9a5bdd9b1[m
+Author: Gokhan AGAR <98310593+gokhanagar@users.noreply.github.com>
+Date:   Mon May 30 07:06:55 2022 +0300
+
+    Delete TryCatch.java
+
+[33mcommit 94d656c8bd6b948868d11c24434799594fe8fb53[m
+Author: Gokhan AGAR <98310593+gokhanagar@users.noreply.github.com>
+Date:   Mon May 30 07:06:50 2022 +0300
+
+    Delete Runner.java
+
+[33mcommit de732bea7118cb53764f6efb420cf06d2a8e1ee3[m
+Author: Gokhan AGAR <98310593+gokhanagar@users.noreply.github.com>
+Date:   Mon May 30 07:06:41 2022 +0300
+
+    Delete Ogretmen.java
+
+[33mcommit 341ec736fa94fbef8273fe119d195917fcdba6fd[m
+Author: Gokhan AGAR <98310593+gokhanagar@users.noreply.github.com>
+Date:   Mon May 30 07:06:35 2022 +0300
+
+    Delete Ogrenci.java
+
+[33mcommit c2c63d256676b10a528c969bfb6b7a8a1906e525[m
+Author: Gokhan AGAR <98310593+gokhanagar@users.noreply.github.com>
+Date:   Mon May 30 07:06:28 2022 +0300
+
+    Delete Kisi.java
+
+[33mcommit 0e923c58beb10806ccdb5bbbee3b77f88f954494[m
+Author: Gokhan AGAR <98310593+gokhanagar@users.noreply.github.com>
+Date:   Mon May 30 07:06:22 2022 +0300
+
+    Delete Islemler01.java
+
+[33mcommit 37671df2b7369bda98b1e30cfe6744a01adc31d5[m
+Author: Gokhan AGAR <98310593+gokhanagar@users.noreply.github.com>
+Date:   Mon May 30 07:06:16 2022 +0300
+
+    Delete Islemler.java
+
+[33mcommit 9887cefdf63a7316c0f18741bef48f242febce48[m
+Author: Gokhan AGAR <98310593+gokhanagar@users.noreply.github.com>
+Date:   Mon May 30 07:06:05 2022 +0300
+
+    Delete AnaMenu01.java
+
+[33mcommit 81cf41a38aef9349e3061dcae62b633724dde26a[m
+Author: Gokhan AGAR <98310593+gokhanagar@users.noreply.github.com>
+Date:   Mon May 30 07:05:57 2022 +0300
+
+    Delete AnaMenu.java
+
+[33mcommit 430e45d266b51c8c395ccf6354fdb9049423c1ce[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Wed May 11 07:03:59 2022 +0300
+
+    11-05-2022
+
+[33mcommit 06d1830b8224b9b21a5fb3d474f5a4a74338b96b[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Fri May 6 09:39:26 2022 +0300
+
+    06-05-2022
+
+[33mcommit c5b842fb159841b32f002a1d6cfb60dbb0a54227[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Thu Apr 28 12:19:05 2022 +0300
+
+    2022-04-28
+
+[33mcommit eec605c26ec9359c5b11f2d8b08d721cc8f25812[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Fri Apr 22 13:28:56 2022 +0300
+
+    2022-04-22
+
+[33mcommit 5ad3094d4e22918ec355054fc76f9f80a652fd8f[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Thu Apr 21 16:49:41 2022 +0300
+
+    2022-04-21
+
+[33mcommit 553f87e95fe568c67ecd1352da56119dab026563[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Mon Apr 18 12:05:44 2022 +0300
+
+    2022-04-18
+
+[33mcommit 7ff8ad6a258abf2fb19aed07ea41c7f2d38bf23c[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Sat Apr 16 13:47:43 2022 +0300
+
+    2022-04-16
+
+[33mcommit 77a4ac5ace2f7722e7146daca7ed45ad2f35f014[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Fri Apr 15 12:42:50 2022 +0300
+
+    2022-04-15
+
+[33mcommit 49bfac9a0f58d84a2c4325c2b9a7e4152420a9ad[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Mon Apr 11 15:42:51 2022 +0300
+
+    2022-04-11
+
+[33mcommit bb54dcf3746e157caa515875c1af5321a393f160[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Sat Apr 9 21:49:52 2022 +0300
+
+    2022-04-09
+
+[33mcommit f1b854a6270660e945955af1674045a47faff667[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Fri Apr 8 08:22:37 2022 +0300
+
+    2022-04-08
+
+[33mcommit ac28b47b57967c136866f0d50082111ba00a2ecc[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Fri Apr 8 08:15:59 2022 +0300
+
+    2022-04-08
+
+[33mcommit db2eec00d3a704211a02399e73f41135ad9813eb[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Thu Apr 7 14:28:09 2022 +0300
+
+    2022-04-07
+
+[33mcommit 6ab6eec5b8ca6208ba07c2238bde0042556bcd85[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Wed Apr 6 08:27:19 2022 +0300
+
+    2022-04-06
+
+[33mcommit 0ae79b2238c90cbfe96756d27351be3472468a4c[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Tue Apr 5 07:45:19 2022 +0300
+
+    2022-04-05
+
+[33mcommit 7301b32e9cc9197c8935336fd410720c51197491[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Mon Apr 4 16:58:45 2022 +0300
+
+    2022-04-04
+
+[33mcommit 183e032c12e44313e1fad56b3c06d58aa0176772[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Fri Apr 1 06:33:47 2022 +0300
+
+    2022-04-01
+
+[33mcommit 1bb4aaac8bb7dc1302f4cdf31c12c1bdc79ce0ab[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Thu Mar 31 14:14:43 2022 +0300
+
+    2022-03-31
+
+[33mcommit 76ae4f9246f8e43e85cd469b88ea46bea0556f41[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Wed Mar 30 06:11:20 2022 +0300
+
+    20220330
+
+[33mcommit 862ca978b686969180e51f3452b1e0c469fdc3e3[m
+Author: Gokhan Agar <gokhanagar1@gmail.com>
+Date:   Tue Mar 29 17:41:02 2022 +0300
+
+    Java
