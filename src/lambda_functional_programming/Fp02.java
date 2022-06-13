@@ -22,7 +22,6 @@ public class Fp02 {
         l.add(8);
         l.add(15);
 
-
         printElementsFunctional(l);
         System.out.println();
         getNumbersMoreThanEight(l);
