@@ -1,7 +1,7 @@
 package projects.GeometrikHesaplama;
 
 
-import static _14_Encapsulation.Q02.UserMain.scanner;
+import static projects.StorageManagement.TryCatch.scanner;
 
 public class main {
 
