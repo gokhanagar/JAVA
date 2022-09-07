@@ -25,9 +25,9 @@ public class ArrayList02 {
         list.add("R");
         list.add("S");
 
-        if(list.contains(letter)){
+        if (list.contains(letter)) {
             list.set(list.indexOf(letter), "Got it");
-        }else{
+        } else {
             list.add(letter);
         }
 
