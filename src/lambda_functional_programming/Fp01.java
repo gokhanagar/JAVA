@@ -28,7 +28,6 @@ public class Fp01 {
         l.add(8);
         l.add(15);
 
-
         printElementStructured(l);
         System.out.println();
         printElementFunctional(l);
