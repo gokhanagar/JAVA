@@ -17,7 +17,7 @@ public class IfStatement09 {
 
         if (num % 5 == 0 && num % 8 == 0) {
             System.out.println("able to divide by 5 and 8");
-        } else if (num % 10 == 0 && num % 9 == 0) {
+        } else if (num % 10 == 5 && num % 9 == 0) {
             System.out.println("able to divide by 9 and divide by 10 reminder is 5");
         }
 
